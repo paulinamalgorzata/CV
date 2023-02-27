@@ -13,12 +13,13 @@ body {
 }
 
 aside {
-  width: 370px;
+  width: 350px;
   background: #394fa9b0;
 }
 
 .cv-photo {
   margin-top: 0px;
+  width: 350px;
 }
 
 .contact-links {
@@ -33,18 +34,18 @@ aside {
 }
 
 .contact-block {
-  margin-top: 60px;
-  margin-left: 20px;
+  margin-top: 40px;
+  margin-left: 30px;
 }
 
 .skills-block {
-  margin-top: 60px;
-  margin-left: 20px;
+  margin-top: 40px;
+  margin-left: 30px;
 }
 
 .certificates-block {
-  margin-top: 60px;
-  margin-left: 20px;
+  margin-top: 40px;
+  margin-left: 30px;
 }
 
 .header-secondary {
@@ -101,10 +102,10 @@ h1 {
 .description {
   font-weight: 400;
   font-size: 12px;
-  line-height: 20px;
+  line-height: 15px;
   color: #595959;
-  margin-top: 40px;
-  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 15px;
   width: 600px;
 }
 
